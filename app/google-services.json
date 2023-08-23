@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984280630666",
+    "project_id": "desarrollomovilnativo1",
+    "storage_bucket": "desarrollomovilnativo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984280630666:android:fb942a8db595a749ac7473",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appjorgepineda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984280630666-3v3mqcs9u9093abd2qj3dab36g0j4pmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeuFG4IPSO-NBnJTN7gFx0_ohkHe0zVqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984280630666-3v3mqcs9u9093abd2qj3dab36g0j4pmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
